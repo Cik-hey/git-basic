@@ -30,5 +30,6 @@ Other useful commands to see what is going on the git repository:
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
 
-
-=NEW LINE=
+## Answer
+1. https://github.com/Cik-hey/git-basic
+2. `add` changes to the staging area, `commit` changes and `push` local commits to publish them to GitHub
